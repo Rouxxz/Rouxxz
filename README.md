@@ -35,7 +35,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
 
 </div>
 
@@ -45,7 +45,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,django,prisma,docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,django,docker" />
 
 </div>
 
@@ -55,7 +55,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 </div>
 
