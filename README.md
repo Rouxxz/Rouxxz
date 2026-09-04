@@ -27,6 +27,71 @@
 
 ---
 
+---
+
+# 🛠️ Tecnologias
+
+## 💻 Linguagens
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css" />
+
+</div>
+
+---
+
+## ⚙️ Desenvolvimento
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,react,nextjs,django,prisma,docker" />
+
+</div>
+
+---
+
+## 🗄️ Banco de Dados
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+
+</div>
+
+---
+
+## 🔧 Ferramentas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,nvm" />
+
+</div>
+
+---
+
+## 📊 Data Science & 🤖 Inteligência Artificial
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+</div>
+
+**Principais ferramentas e conceitos:**
+
+🐼 Pandas
+🔢 NumPy
+🗄️ SQL
+📈 Análise de Dados
+🤖 Machine Learning
+🧠 Inteligência Artificial
+🎈 Streamlit
+📓 Jupyter Notebook
+
+---
+
 ## 🚀 Projetos em Destaque
 
 ### 🧩 [Simulador 8-Puzzle com IA](Link-do-repositorio)
