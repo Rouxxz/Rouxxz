@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o [Seu Nome]! 👋</h1>
 
-<!--
-**Rouxxz/Rouxxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🎓 Estudante de Ciência de Dados e Inteligência Artificial | Analista de Dados em Formação</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Sou um estudante universitário apaixonado por resolver problemas complexos através de dados, modelagem matemática e algoritmos de IA. Meu foco atual está na aplicação de estruturas de dados, teoria dos grafos e algoritmos de busca e otimização para criar soluções inteligentes.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="mailto:seu-email@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/SEU-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Habilidades e Ferramentas
+
+*   **Linguagens de Programação:** Python, C
+*   **Ciência de Dados & Visualização:** Pandas, NumPy, NetworkX (Teoria dos Grafos e Visualização de Redes)
+*   **Inteligência Artificial:** Algoritmos de Busca (A*, Hill-Climbing, Busca em Profundidade), Algoritmos Genéticos, Lógica de Primeira Ordem
+*   **Base Matemática:** Álgebra Linear (Matrizes, Sistemas Lineares), Matemática Discreta
+*   **Engenharia de Software:** Estruturas de Dados, Gerenciamento Dinâmico de Memória, Lógica de Programação
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🧩 [Simulador 8-Puzzle com IA](Link-do-repositorio)
+Um jogo 8-Puzzle funcional desenvolvido em **C**, focado na aplicação direta de algoritmos clássicos de IA.
+*   **Tecnologias:** C, Estruturas de Dados.
+*   **Destaques:** Integração de solucionadores de Inteligência Artificial usando busca **A*** e Busca de Custo Uniforme/Profundidade Limitada Iterativa para resolver o quebra-cabeça de forma autônoma.
+
+### 🕸️ [Automação e Visualização de Grafos](Link-do-repositorio)
+Um sistema desenvolvido para automatizar o mapeamento de matrizes para visualizações em redes.
+*   **Tecnologias:** Python, NetworkX.
+*   **Destaques:** O script lê regras lógicas baseadas em matrizes e aplica conexões automatizadas entre nós geométricos distintos (círculos, quadrados, triângulos), incluindo regras avançadas de roteamento diagonal.
+
+### 🔌 [Monitoramento de Consumo de Energia IoT](Link-do-repositorio)
+Protótipo focado na análise de dados físicos em tempo real para controle de eficiência.
+*   **Destaques:** Projeto de Internet das Coisas (IoT) projetado para medir e analisar padrões de consumo de energia em ambientes residenciais e comerciais através de uma "energy box".
+
+### 👑 [Otimização com Algoritmos Genéticos (N-Rainhas)](Link-do-repositorio)
+Implementação de algoritmos de otimização heurística para resolver o clássico problema das N-Rainhas.
+*   **Tecnologias:** Python / C.
+*   **Destaques:** Uso de técnicas de seleção, cruzamento e mutação para contornar mínimos locais e encontrar a solução ideal do tabuleiro.
+
+---
+
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radium&hide_border=true" alt="Linguagens mais usadas" height="150"/>
+</p>
+
+---
+⚡ *Buscando ativamente oportunidades e estágios na área de Análise de Dados e Inteligência Artificial.*
