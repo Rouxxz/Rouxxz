@@ -52,10 +52,10 @@ Implementação de algoritmos de otimização heurística para resolver o cláss
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radium&hide_border=true" alt="Linguagens mais usadas" height="150"/>
-</p>
+<div align="center">
 
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+</div>
 ---
 ⚡ *Buscando ativamente oportunidades e estágios na área de Análise de Dados e Inteligência Artificial.*
