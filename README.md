@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o [Seu Nome]! 👋</h1>
+<h1 align="center">Olá, eu sou o Arthur Bergamasco Contantino! 👋</h1>
 
 <h3 align="center">🎓 Estudante de Ciência de Dados e Inteligência Artificial | Analista de Dados em Formação</h3>
 
@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:[seu-email@exemplo.com](https://mail.google.com/mail/u/0/#inbox)">
+  <a href="mailto:arthurbergamasco04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/feed/)">
+  <a href="https://www.linkedin.com/in/arthur-bergamasco-constantino">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -39,6 +39,9 @@ Um sistema desenvolvido para automatizar o mapeamento de matrizes para visualiza
 *   **Tecnologias:** Python, NetworkX.
 *   **Destaques:** O script lê regras lógicas baseadas em matrizes e aplica conexões automatizadas entre nós geométricos distintos (círculos, quadrados, triângulos), incluindo regras avançadas de roteamento diagonal.
 
+### 🔌 [Monitoramento de Consumo de Energia IoT](Link-do-repositorio)
+Protótipo focado na análise de dados físicos em tempo real para controle de eficiência.
+*   **Destaques:** Projeto de Internet das Coisas (IoT) projetado para medir e analisar padrões de consumo de energia em ambientes residenciais e comerciais através de uma "energy box".
 
 ### 👑 [Otimização com Algoritmos Genéticos (N-Rainhas)](Link-do-repositorio)
 Implementação de algoritmos de otimização heurística para resolver o clássico problema das N-Rainhas.
