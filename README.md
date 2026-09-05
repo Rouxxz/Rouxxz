@@ -104,9 +104,9 @@ Um sistema desenvolvido para automatizar o mapeamento de matrizes para visualiza
 *   **Tecnologias:** Python, NetworkX.
 *   **Destaques:** O script lê regras lógicas baseadas em matrizes e aplica conexões automatizadas entre nós geométricos distintos (círculos, quadrados, triângulos), incluindo regras avançadas de roteamento diagonal.
 
-### 👑 [Otimização com Algoritmos Genéticos (N-Rainhas)](Link-do-repositorio)
+### 👑 [Otimização com Algoritmos Genéticos (N-Rainhas)](https://github.com/Rouxxz/Otimiza-o-com-Algoritmos-Gen-ticos-N-Rainhas-.git)
 Implementação de algoritmos de otimização heurística para resolver o clássico problema das N-Rainhas.
-*   **Tecnologias:** Python / C.
+*   **Tecnologias:** C.
 *   **Destaques:** Uso de técnicas de seleção, cruzamento e mutação para contornar mínimos locais e encontrar a solução ideal do tabuleiro.
 
 ---
