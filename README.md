@@ -104,10 +104,6 @@ Um sistema desenvolvido para automatizar o mapeamento de matrizes para visualiza
 *   **Tecnologias:** Python, NetworkX.
 *   **Destaques:** O script lê regras lógicas baseadas em matrizes e aplica conexões automatizadas entre nós geométricos distintos (círculos, quadrados, triângulos), incluindo regras avançadas de roteamento diagonal.
 
-### 🔌 [Monitoramento de Consumo de Energia IoT](Link-do-repositorio)
-Protótipo focado na análise de dados físicos em tempo real para controle de eficiência.
-*   **Destaques:** Projeto de Internet das Coisas (IoT) projetado para medir e analisar padrões de consumo de energia em ambientes residenciais e comerciais através de uma "energy box".
-
 ### 👑 [Otimização com Algoritmos Genéticos (N-Rainhas)](Link-do-repositorio)
 Implementação de algoritmos de otimização heurística para resolver o clássico problema das N-Rainhas.
 *   **Tecnologias:** Python / C.
