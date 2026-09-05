@@ -94,7 +94,7 @@
 
 ## 🚀 Projetos em Destaque
 
-### 🧩 [Simulador 8-Puzzle com IA]((https://github.com/Rouxxz/Simulador-8-Puzzle-Em-C-.git))
+### 🧩 [Simulador 8-Puzzle com IA]([Link-do-repositorio](https://github.com/Rouxxz/Simulador-8-Puzzle-Em-C-.git))
 Um jogo 8-Puzzle funcional desenvolvido em **C**, focado na aplicação direta de algoritmos clássicos de IA.
 *   **Tecnologias:** C, Estruturas de Dados.
 *   **Destaques:** Integração de solucionadores de Inteligência Artificial usando busca **A*** e Busca de Custo Uniforme/Profundidade Limitada Iterativa para resolver o quebra-cabeça de forma autônoma.
