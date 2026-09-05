@@ -99,7 +99,7 @@ Um jogo 8-Puzzle funcional desenvolvido em **C**, focado na aplicação direta d
 *   **Tecnologias:** C, Estruturas de Dados.
 *   **Destaques:** Integração de solucionadores de Inteligência Artificial usando busca **A*** e Busca de Custo Uniforme/Profundidade Limitada Iterativa para resolver o quebra-cabeça de forma autônoma.
 
-### 🕸️ [Automação e Visualização de Grafos](Link-do-repositorio)
+### 🕸️ [Automação e Visualização de Grafos](https://github.com/Rouxxz/Automacao-e-Visualizacao-de-Grafos.git)
 Um sistema desenvolvido para automatizar o mapeamento de matrizes para visualizações em redes.
 *   **Tecnologias:** Python, NetworkX.
 *   **Destaques:** O script lê regras lógicas baseadas em matrizes e aplica conexões automatizadas entre nós geométricos distintos (círculos, quadrados, triângulos), incluindo regras avançadas de roteamento diagonal.
